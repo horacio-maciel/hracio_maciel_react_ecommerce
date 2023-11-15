@@ -5,6 +5,12 @@ import Navbar from 'react-bootstrap/Navbar';
 
 import { CartWidget } from "./CardWidget";
 
+import { products } from "../components/data/products.json";
+
+const categories = products.map ((item) => item.category);
+
+console.log( products);
+
 export const NavBAr = () => {
     return (
         <Navbar bg="dark" data-bs-theme="dark">
