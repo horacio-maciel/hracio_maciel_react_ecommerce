@@ -1,23 +1,23 @@
 [
 	{
 		"name": "alianzas",
-		"id": "1",
-		"category": "anillos",
-		"detail": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500",
-		"img": "https://http2.mlstatic.com/D_NQ_NP_899878-MLA32803933132_112019-O.webp"
+		"id": 1,
+		"category": "alianzas",
+		"description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500",
+		"pictureUrl": "https://http2.mlstatic.com/D_NQ_NP_899878-MLA32803933132_112019-O.webp"
 	},
 	{
 		"name": "relojes",
 		"id": 2,
 		"category": "relojes",
-		"detail": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500",
-		"img": "https://cloud10.todocoleccion.online/relojes-antiguos-pulsera/tc/2021/09/18/20/288220113_tcimg_B0E9CEA9.jpg"
+		"description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500",
+		"pictureUrl": "https://cloud10.todocoleccion.online/relojes-antiguos-pulsera/tc/2021/09/18/20/288220113_tcimg_B0E9CEA9.jpg"
 	},
 	{
 		"name": "cadenas",
 		"id": 3,
-		"category": "pulceras",
-		"detail": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500",
-		"img": "https://api2.entrejoyas.com.ar/img/productos/medium/cadena-oro-18-kts-paris-75-grs-copar75-55-1617291199-0.webp"
+		"category": "cadenas",
+		"description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500",
+		"pictureUrl": "https://api2.entrejoyas.com.ar/img/productos/medium/cadena-oro-18-kts-paris-75-grs-copar75-55-1617291199-0.webp"
 	}
 ]
